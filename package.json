@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/textsimilarity-API.git"
   },
   "keywords": [
-    "text similarity"," text similarity checker"," text similarity api"," text similarity tool"," text similarity software"," text similarity service"," text similarity library"," text similarity sdk"," text similarity code"," text similarity script"," text similarity program"," text similarity application"," text similarity app"," text similarity utility"," text similarity helper"," text similarity helper tool"," text similarity helper software"," text similarity helper service"," text similarity helper library"," text similarity helper sdk"," text similarity helper code"," text similarity helper script"," text similarity helper program"," text similarity helper application"," text similarity helper app"," text similarity helper tool"," text similarity helper utility"," text similarity helper"
+    "text similarity","text similarity checker","text similarity api","text similarity tool","text similarity software"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
