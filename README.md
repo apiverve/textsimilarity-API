@@ -78,7 +78,8 @@ api.execute(query, function (error, data) {
       "count": 7,
       "percentage": 58.33
     }
-  }
+  },
+  "code": 200
 }
 ```
 
